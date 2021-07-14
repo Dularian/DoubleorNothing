@@ -124,5 +124,5 @@ if __name__ == '__main__':
     """Sets the starting balance and betting amount for each play"""
     game = Dubs(beginning_balance=500, bets=25)
 
-    """Starts the game from the main method"""
+    """Starts the game from the main method """
     game.main()
